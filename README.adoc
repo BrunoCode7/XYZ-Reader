@@ -1,2 +1,1 @@
-# Recipes
-XYZ Reader App (Udacity project, Stage 5) is a project requested by Udacity during the Android developer nanodegree.
+# XYZ-Reader (Make you app material) Udacity android Nanodegree project 5.
